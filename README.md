@@ -10,4 +10,5 @@ A file reader I made in 5 minutes
 `ufr <file path> <arguments>`
 
 current file arguments:
+
 -r     Checks if the file exists

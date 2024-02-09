@@ -11,4 +11,4 @@ A file reader I made in 5 minutes
 
 current file arguments:
 
--r     Checks if the file exists
+-s     Checks the file's size.
